@@ -1,0 +1,14 @@
+
+C	java:S108")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó¥÷Ž
+H
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+H
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ¹á“
+^
+java:S3973"HUse indentation to denote the code conditionally executed by this "for".(¡½±Š
