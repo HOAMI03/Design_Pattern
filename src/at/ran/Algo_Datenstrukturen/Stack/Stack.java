@@ -1,4 +1,4 @@
 package at.ran.Algo_Datenstrukturen;
 
-public class Hallo {
+public class Stack {
 }
